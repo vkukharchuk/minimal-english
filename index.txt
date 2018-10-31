@@ -1,0 +1,134 @@
+from my perspective
+mismatch
+assessment
+capacity
+ahead
+move forward
+step in 
+budget
+something around that
+redundant
+
+
+keep it that way  - оставить все как есть
+
+Regression is almost completed, there are a few test cases ‘In testing status’ which will be done by Dwi when cb-test will be available for testing
+we may need to help other team out if help is needed.
+Your card is about to expire
+
+Entities are now getting deleted for the historical…
+Pavel raised a question about report
+
+inconsistencies
+
+call on - призывай
+the only way
+derived
+after what time - через какое время
+
+Due to health reasons Yulya will not be able to work after vacation and will go maternity leave. 
+
+respectively
+redundant
+inaccuracies
+substitute
+narrow down
+In my mind
+
+will try do my best for it :o
+
+come out
+take into account some my remarks.
+
+Dont mention that - даже не упоминайте об этом
+No thanks at all - Не стоит благодарности
+You are welcome - к Вашим услугам
+It was a pleasure С удовольствием
+The pleasure is/was mine - это доставило и мне пользу
+
+
+necessary
+
+Yes, it is supposed to be sorted out. But we will keep our eyes on it.
+
+
+http://langformula.ru/english-grammar/be-supposed-to/
+http://langformula.ru/subscribe/?utm_source=blogpost&utm_medium=main&utm_campaign=optin
+
+
+Please direct ongoing issues with Jenkins and Jobs (assuming the fault is with Jenkins and not with code) to Aliaksandr Markin. He is currently on point for Jenkins.
+Unfortunately, our class tomorrow is impossible, since we are not supposed to reschedule classes that fall on public holidays. 
+
+Upon deletion - при удалении
+
+I am sharing the concerns
+Focus on the things that matters. 
+Thanks for your cooperation and effort. 
+
+conduct
+
+given that (просто given) - учитывая
+
+Ideally
+
+intersect
+I'm inclined to say yes
+Objection
+
+you are our only hope )
+
+Regarding blockers and so on. We have a couple jira tickets related to Search for instance but normal testing is blocked by lacking of  generated data and tools which allows to generate them. 
+And in course of time that problem will be blocking us more and more.
+Second problem is about updating our dev-stable environment. All back-end teams commit their “stable” changes on dev-stable every Sunday but there is issue with front-end team who commit changes on dev and dev-stable at once every day.
+
+was raised
+
+unlike
+within 
+apart
+
+As you know,
+And as happens in such cases
+проводить  carry out
+занять - busy
+withstand выдержать
+
+Apparently По всей видимости
+
+In general
+At the very beginning
+To say the truth, we did not understand each other very well
+Everyone was in a hurry and so on
+In the end в конце концов
+I've never seen them before.
+
+Almost the same
+persistent
+Sums of money
+
+Windshield wipers
+
+proceed переходить
+Somehow как-то
+
+and out of all these, it turns out that G4 team used only these:
+и из всего этого, оказывается, что G4 команда используется только этим:
+
+accordingly соответственно
+
+Nothing from my site
+
+please, either create a ticket in jira (VPNed) and attach a screenshot, or use hipchat (also VPNed)
+
+Take your time
+I can’t help it
+
+impact влияние
+defeat поражение
+purpose цель
+whenever всякий раз, когда
+one more time еще раз
+
+
+
+
